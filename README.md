@@ -9,10 +9,11 @@ Learn:
   -- JavaScript
 
 Understand:
-  *DSA
-  *Networking
-  *Computer OS
-  *File Sys
+  -- DSA
+  -- Networking
+  -- Computer OS
+  -- File Sys
+  
 
 
 <!---

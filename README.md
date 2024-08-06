@@ -1,7 +1,19 @@
-- 👀 I’m interested in learning AI and Machine Learning...
-- 🌱 I’m currently learning about AI's and stuff...
-- 💞️ I’m looking to collaborate on AI projects to broaden my knowledge
-- 📫 You can contact me in twitter @TimbrezaDev 
+<H1>Learning Phase</H1>
+
+<h2>My current objectives:</h2>
+Learn:
+  *C
+  *C++
+  *Python
+  *Rust
+  *JavaScript
+
+Understand:
+  *DSA
+  *Networking
+  *Computer OS
+  *File Sys
+
 
 <!---
 marweentimbreza/marweentimbreza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

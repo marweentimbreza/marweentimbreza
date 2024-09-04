@@ -2,11 +2,11 @@
 
 <h2>My current objectives:</h2>
 Learn:
-  -- C
   -- C++
   -- Python
   -- Rust
   -- JavaScript
+  -- Php
 
 Understand:
   -- DSA

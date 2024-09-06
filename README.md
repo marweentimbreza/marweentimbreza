@@ -1,6 +1,7 @@
 <H1>Learning Phase</H1>
 
 <h2>My current objectives:</h2>
+
 Learn:
   -- C++
   -- Python

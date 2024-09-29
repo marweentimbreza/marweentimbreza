@@ -3,7 +3,7 @@
 <h2>My current objectives:</h2>
 
 Learn:
-  -- C++
+  -- C & C++
   -- Python
   -- Rust
   -- JavaScript

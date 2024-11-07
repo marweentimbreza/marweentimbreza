@@ -2,14 +2,15 @@
 
 <h2>My current objectives:</h2>
 
-Learn:
+Learning:
   -- C & C++
   -- Python
   -- Rust
   -- JavaScript
   -- Php
+  -- Go
 
-Understand:
+Understanding:
   -- DSA
   -- Networking
   -- Computer OS
